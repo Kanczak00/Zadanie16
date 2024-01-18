@@ -1,0 +1,8 @@
+# C assiocated files
+*.exe
+*.o
+
+# Unix executable
+*
+!*.*
+!*/
